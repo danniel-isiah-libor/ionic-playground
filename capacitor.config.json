@@ -1,0 +1,8 @@
+{
+  "appId": "vuetify.project",
+  "appName": "vuetify-project",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
